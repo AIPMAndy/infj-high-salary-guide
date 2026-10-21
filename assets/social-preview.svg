@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#15251d"/><stop offset="1" stop-color="#405c4b"/></linearGradient><linearGradient id="gold" x1="0" x2="1"><stop stop-color="#c6a674"/><stop offset="1" stop-color="#edd3a1"/></linearGradient><pattern id="lines" width="34" height="34" patternUnits="userSpaceOnUse"><path d="M34 0H0V34" fill="none" stroke="#e9e1d1" stroke-opacity=".065"/></pattern></defs>
+  <rect width="1200" height="630" fill="url(#bg)"/><rect width="1200" height="630" fill="url(#lines)"/>
+  <path d="M948 24c186 116 215 314 87 465S785 615 715 478 738 173 868 129" fill="none" stroke="#d8bb89" stroke-opacity=".37" stroke-width="2"/>
+  <ellipse cx="946" cy="315" rx="185" ry="270" transform="rotate(30 946 315)" fill="none" stroke="#d8bb89" stroke-opacity=".22" stroke-width="2"/>
+  <rect x="828" y="115" width="238" height="396" rx="4" transform="rotate(-7 947 313)" fill="#294235" stroke="#e0c291" stroke-width="2"/>
+  <text x="947" y="318" text-anchor="middle" font-family="Georgia,serif" font-size="76" fill="#edd7ac">INFJ</text>
+  <path d="M910 350h74" stroke="#e0bc85" stroke-width="2"/>
+  <text x="945" y="406" text-anchor="middle" font-size="20" fill="#e4d7bc" font-family="serif">VALUE FIRST</text>
+  <text x="78" y="98" font-family="Georgia,serif" font-size="21" letter-spacing="5" fill="#dbbd8b">OPEN SOURCE CAREER PLAYBOOK</text>
+  <text x="73" y="218" font-family="serif" font-size="76" font-weight="bold" fill="#f9f4e8">INFJ 职场拿高薪</text>
+  <text x="73" y="314" font-family="serif" font-size="66" font-weight="bold" fill="url(#gold)">保姆级攻略</text>
+  <text x="78" y="392" font-family="sans-serif" font-size="25" fill="#dce7db">选岗 · 成果 · 升职 · 面试 · 谈薪 · 边界</text>
+  <path d="M78 464h505" stroke="#cbad7d" stroke-opacity=".7"/>
+  <text x="78" y="517" font-family="sans-serif" font-size="25" fill="#c5d2c4">让能力变成证据，让价值有价格。</text>
+  <text x="78" y="577" font-family="sans-serif" font-size="19" fill="#c7ac7e">AI 酋长 Andy    ·    GitHub 开源</text>
+</svg>
