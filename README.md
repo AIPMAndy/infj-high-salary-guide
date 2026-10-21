@@ -12,8 +12,6 @@
 
 **[打开互动网站](https://aipmandy.github.io/infj-high-salary-guide/)** ｜ **[7 天启动方案](START-HERE.md)** ｜ **[30 天行动计划](https://aipmandy.github.io/infj-high-salary-guide/#plan)**
 
-> 发布前提示：以上在线站点 URL 是按 GitHub Pages 命名规则设计的发布目标，**仅在仓库创建并成功部署后才会生效**。如访问 404，请按 [上线手册](docs/PUBLISH.md) 配置。
-
 ## 这份攻略解决什么
 
 如果你遇到过这些情况，可以从这里开始：
