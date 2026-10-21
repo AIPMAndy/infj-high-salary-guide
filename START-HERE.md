@@ -42,3 +42,8 @@
 - **暂缓变动**：家庭、健康、现金流或签约限制让风险过高，保留选项。
 
 写出未来 30 天三个最小行动及复盘日期，接着进入[网站的 30 天任务清单](https://aipmandy.github.io/infj-high-salary-guide/#plan)。
+
+
+## 需要交流你的具体职业问题？
+
+作者：**AI 酋长 Andy**。微信 **`AIPMAndy`**（添加时可备注「INFJ 职场攻略」）；个人官网 **[metaver.vip](https://metaver.vip/)**，咨询与陪跑服务见 **[官网服务页](https://metaver.vip/services)**。开源资料始终可以免费自学，不保证涨薪、晋升或获得 Offer。

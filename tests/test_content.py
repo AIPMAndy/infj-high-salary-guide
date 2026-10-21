@@ -32,5 +32,16 @@ class TestSite(unittest.TestCase):
         self.assertIn('https://metaver.vip/services', html)
         self.assertIn('没有哪个 MBTI 类型', html)
 
+    def test_contact_links_and_copy(self):
+        html = (ROOT / 'index.html').read_text(encoding='utf-8')
+        readme = (ROOT / 'README.md').read_text(encoding='utf-8')
+        js = (ROOT / 'assets/site.js').read_text(encoding='utf-8')
+        self.assertIn('https://metaver.vip/', html)
+        self.assertIn('https://metaver.vip/services', html)
+        self.assertGreaterEqual(html.count('data-copy-wechat'), 4)
+        self.assertIn('微信 AIPMAndy', html)
+        self.assertIn('AIPMAndy', readme)
+        self.assertIn("copyText('AIPMAndy'", js)
+
 if __name__ == '__main__':
     unittest.main()

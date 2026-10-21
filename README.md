@@ -4,7 +4,7 @@
 >
 > **拿高薪没有人格捷径。** 我们把 MBTI 当成切入问题的标签，用市场数据、实际成果与行动计划解决问题。
 
-**AI 酋长 Andy** · [个人网站](https://metaver.vip/) · [求职咨询 / 高管成长陪跑](https://metaver.vip/services)
+**AI 酋长 Andy** · [我的官网 metaver.vip](https://metaver.vip/) · [求职咨询 / 高管成长陪跑](https://metaver.vip/services) · **微信：`AIPMAndy`**
 
 ![INFJ 职场拿高薪保姆级攻略](assets/social-preview.svg)
 
@@ -86,7 +86,9 @@ INFJ 的讨论热度很高，但 **MBTI 不适合预测收入、工作能力或�
 我是 **AI 酋长 Andy**，曾在腾讯、百度从事 AI 产品工作，做过 AI 创业公司 VP，目前从事求职咨询、高管成长陪跑、AI 业务应用相关服务。
 
 - 免费自学：[互动网站](https://aipmandy.github.io/infj-high-salary-guide/)
-- 有个性化需求：[服务介绍](https://metaver.vip/services)
+- **我的微信：`AIPMAndy`**（微信搜索添加，备注「INFJ 职场攻略」，请简单说说你的职业问题）
+- **我的官网：[metaver.vip](https://metaver.vip/)**
+- 有个性化需求：[求职咨询与陪跑服务](https://metaver.vip/services)
 - 内容纠错 / 投稿：[GitHub Issues](https://github.com/AIPMAndy/infj-high-salary-guide/issues)
 - 欢迎 **Star ⭐ / Fork / PR**，尤其欢迎补充不同城市、行业、职级的可公开验证资料。
 
