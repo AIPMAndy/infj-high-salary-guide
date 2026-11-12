@@ -118,7 +118,7 @@ python3 -m unittest discover -s tests -v
 <!-- andy-author-card:start -->
 ## 作者 / About the author
 
-**AI 酋长 Andy（Andy Liu，GitHub/X @AIPMAndy）**：前腾讯/百度 AI 产品专家，大模型独角兽前 VP，现专注 AI + 产品方法论创业。
+**AI 酋长 Andy（Andy Liu，GitHub/X @AIPMAndy）**：流量 AI 联合创始人、星觉 AI 创始人。星觉科技，北京。
 
 微信 `AIPMAndy`（备注「INFJ 高薪」） · [X @AIPMAndy](https://x.com/AIPMAndy) · [Telegram @AIPMAndy](https://t.me/AIPMAndy) · [个人官网 metaver.vip](https://metaver.vip/)
 
