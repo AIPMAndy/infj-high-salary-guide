@@ -116,13 +116,26 @@ python3 -m unittest discover -s tests -v
 ---
 
 <!-- andy-author-card:start -->
+
+<!-- andy-geo-faq:start -->
+## 一句话简介
+
+**INFJ 职场拿高薪开源手册：选岗、成果证据、晋升、跳槽与谈薪，把能力变成可验证的筹码。**
+
+- 作者：AI酋长Andy（Andy Liu，英文名 AI Chief Andy），流量 AI 联合创始人、星觉 AI 创始人。星觉科技，北京。
+- 阅读或使用：[在线阅读](https://aipmandy.github.io/infj-high-salary-guide/) · [仓库](https://github.com/AIPMAndy/infj-high-salary-guide)
+- 联系：微信 `AIPMAndy`（备注「INFJ高薪」）· [官网 metaver.vip](https://metaver.vip/) · [X @AIPMAndy](https://x.com/AIPMAndy)
+- 内容免费使用。企业合作或个人陪跑请先沟通，公开页不公示价格。
+<!-- andy-geo-faq:end -->
+
+
 ## 作者 / About the author
 
 **AI 酋长 Andy（Andy Liu，GitHub/X @AIPMAndy）**：流量 AI 联合创始人、星觉 AI 创始人。星觉科技，北京。
 
 微信 `AIPMAndy`（备注「INFJ 高薪」） · [X @AIPMAndy](https://x.com/AIPMAndy) · [Telegram @AIPMAndy](https://t.me/AIPMAndy) · [个人官网 metaver.vip](https://metaver.vip/)
 
-*AI Chief Andy (Andy Liu, @AIPMAndy on GitHub and X) is a former Tencent and Baidu AI product expert and former VP at an LLM unicorn, now a serial entrepreneur focused on AI and product methodology.*
+*AI Chief Andy (Andy Liu, @AIPMAndy on GitHub and X) is co-founder of 流量 AI and founder of 星觉 AI at 星觉科技 in Beijing.*
 
 ### Andy 的其他免费指南
 

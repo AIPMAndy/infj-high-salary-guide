@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://aipmandy.github.io/infj-high-salary-guide/sitemap.xml
